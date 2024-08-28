@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGI.Icegate_Integration.Api", "IGI.Icegate_Integration.Api.csproj", "{101E1998-75B3-4068-BDFC-C2B3D3C00743}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C901F553-C1C1-4F2D-83BB-95DC43DF1E7B} = {C901F553-C1C1-4F2D-83BB-95DC43DF1E7B}
+		{D5C405B2-B7D6-4887-A8C2-D3EE9CBDE82E} = {D5C405B2-B7D6-4887-A8C2-D3EE9CBDE82E}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IGI", "IGI", "{78182B55-4C29-46A2-A0CD-42B1A969096B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGI.Icegate_Integration.Core", "..\IGI.Icegate_Integration.Core\IGI.Icegate_Integration.Core.csproj", "{D5C405B2-B7D6-4887-A8C2-D3EE9CBDE82E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGI.Icegate_Integration.Infrastructure", "..\IGI.Icegate_Integration.Infrastructure\IGI.Icegate_Integration.Infrastructure.csproj", "{C901F553-C1C1-4F2D-83BB-95DC43DF1E7B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D5C405B2-B7D6-4887-A8C2-D3EE9CBDE82E} = {D5C405B2-B7D6-4887-A8C2-D3EE9CBDE82E}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101E1998-75B3-4068-BDFC-C2B3D3C00743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101E1998-75B3-4068-BDFC-C2B3D3C00743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101E1998-75B3-4068-BDFC-C2B3D3C00743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101E1998-75B3-4068-BDFC-C2B3D3C00743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C405B2-B7D6-4887-A8C2-D3EE9CBDE82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C405B2-B7D6-4887-A8C2-D3EE9CBDE82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C405B2-B7D6-4887-A8C2-D3EE9CBDE82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C405B2-B7D6-4887-A8C2-D3EE9CBDE82E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C901F553-C1C1-4F2D-83BB-95DC43DF1E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C901F553-C1C1-4F2D-83BB-95DC43DF1E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C901F553-C1C1-4F2D-83BB-95DC43DF1E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C901F553-C1C1-4F2D-83BB-95DC43DF1E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{101E1998-75B3-4068-BDFC-C2B3D3C00743} = {78182B55-4C29-46A2-A0CD-42B1A969096B}
+		{D5C405B2-B7D6-4887-A8C2-D3EE9CBDE82E} = {78182B55-4C29-46A2-A0CD-42B1A969096B}
+		{C901F553-C1C1-4F2D-83BB-95DC43DF1E7B} = {78182B55-4C29-46A2-A0CD-42B1A969096B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEA7138E-D38A-4CDF-9522-E6D1D1B31E23}
+	EndGlobalSection
+EndGlobal

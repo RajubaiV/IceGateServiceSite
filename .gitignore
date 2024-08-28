@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/IGI.Icegate_Integration.Infrastructure/obj/Debug/net8.0/IGI.Icegate_Integration.Infrastructure.AssemblyInfo.cs
+/IGI.Icegate_Integration.Infrastructure/obj/Debug/net8.0/IGI.Icegate_Integration.Infrastructure.AssemblyInfoInputs.cache
+/IGI.Icegate_Integration.Infrastructure/obj/Debug/net8.0/IGI.Icegate_Integration.Infrastructure.assets.cache
+/IGI.Icegate_Integration.Infrastructure/obj/Debug/net8.0/IGI.Icegate_Integration.Infrastructure.csproj.AssemblyReference.cache
+/IGI.Icegate_Integration.Infrastructure/obj/Debug/net8.0/IGI.Icegate_Integration.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/IGI.Icegate_Integration.Core/obj/Debug/net8.0/IGI.Icegate_Integration.Core.AssemblyInfo.cs
+/IGI.Icegate_Integration.Core/obj/Debug/net8.0/IGI.Icegate_Integration.Core.AssemblyInfoInputs.cache
+/IGI.Icegate_Integration.Core/obj/Debug/net8.0/IGI.Icegate_Integration.Core.assets.cache
+/IGI.Icegate_Integration.Core/obj/Debug/net8.0/IGI.Icegate_Integration.Core.GeneratedMSBuildEditorConfig.editorconfig

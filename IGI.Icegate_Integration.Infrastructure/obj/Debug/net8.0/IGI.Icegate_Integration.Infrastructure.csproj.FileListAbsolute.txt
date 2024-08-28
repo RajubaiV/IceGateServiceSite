@@ -1,0 +1,71 @@
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.deps.json
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.runtimeconfig.json
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.csproj.AssemblyReference.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.AssemblyInfoInputs.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.AssemblyInfo.cs
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.csproj.CoreCompileInputs.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\refint\IGI.Icegate_Integration.Infrastructure.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.genruntimeconfig.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\ref\IGI.Icegate_Integration.Infrastructure.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Core.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Core.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Iceg.8C93E4C4.Up2Date
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\ICE_Gate_Integration\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.sourcelink.json
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.deps.json
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.runtimeconfig.json
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.dll
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.pdb
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Core.dll
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Core.pdb
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.csproj.AssemblyReference.cache
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.AssemblyInfoInputs.cache
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.AssemblyInfo.cs
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.csproj.CoreCompileInputs.cache
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.sourcelink.json
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Iceg.8C93E4C4.Up2Date
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.dll
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\refint\IGI.Icegate_Integration.Infrastructure.dll
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.pdb
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.genruntimeconfig.cache
+C:\IceGate\Ice_Gate_Integration-Service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\ref\IGI.Icegate_Integration.Infrastructure.dll
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.deps.json
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.runtimeconfig.json
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.dll
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.pdb
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Core.dll
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Core.pdb
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.csproj.AssemblyReference.cache
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.AssemblyInfoInputs.cache
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.AssemblyInfo.cs
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.csproj.CoreCompileInputs.cache
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Iceg.8C93E4C4.Up2Date
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.dll
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\refint\IGI.Icegate_Integration.Infrastructure.dll
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.pdb
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.genruntimeconfig.cache
+C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\ref\IGI.Icegate_Integration.Infrastructure.dll
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.deps.json
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.runtimeconfig.json
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.dll
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.pdb
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Core.dll
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\bin\Debug\net8.0\IGI.Icegate_Integration.Core.pdb
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.csproj.AssemblyReference.cache
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.AssemblyInfoInputs.cache
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.AssemblyInfo.cs
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.sourcelink.json
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Iceg.8C93E4C4.Up2Date
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.dll
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\refint\IGI.Icegate_Integration.Infrastructure.dll
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.pdb
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\IGI.Icegate_Integration.Infrastructure.genruntimeconfig.cache
+C:\DHT\Clone\Ice_Gate_Integration-service\IGI.Icegate_Integration.Infrastructure\obj\Debug\net8.0\ref\IGI.Icegate_Integration.Infrastructure.dll
